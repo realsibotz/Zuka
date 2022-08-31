@@ -1,16 +1,16 @@
 <p align="center">
     <img src="https://telegra.ph/file/e86be58bc09dfba470cbc.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Zuka</h1>
+<h1 align="center">Xiaomi</h1>
 <p align="center">
-  <a href="https://github.com/BaraXD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ZukaV2;Base+ori+by+BochilGaming;Recode+By+Zuka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/XiaomiBOT"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ZukaV2;Base+ori+by+BochilGaming;Recode+By+Zuka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="Zuka" src="https://img.shields.io/badge/BotzzMee-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Xiaomi" src="https://img.shields.io/badge/XiaomiBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/BaraXD"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zuka-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/XiaomiBOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Xiaomi-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/BaraXD/KannaBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BaraXD/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/BaraXD/KannaBOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BaraXD/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
