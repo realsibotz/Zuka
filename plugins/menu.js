@@ -11,7 +11,7 @@ import fetch from 'node-fetch'
 
 const defaultMenu = {
   before: `
-*┄┄┄┅┅❑ DASHBOARD ❑┅┅┄┄┄*
+*═════𖡹 DASHBOARD 𖡹═════*
   
  *U S E R*
  *Name:* %name
@@ -23,14 +23,14 @@ const defaultMenu = {
  *Xp:* %exp / %maxexp
  *Total Xp:* %totalexp
 
-
+*═════𖡹 SANO MD 𖡹═════*
  *T O D A Y*
  *Days:* %week %weton
  *Date:* %date
  *Islamic Date:* %dateIslamic
  *Time:* %wib
 
-
+*═════𖡹 SANO MD 𖡹═════*
  *I N F O*
  *Bot Name:* %me
  *Mode:* %mode
@@ -41,10 +41,10 @@ const defaultMenu = {
  *Runtime:* %muptime
  *Database:* %rtotalreg dari %totalreg
 
-
+*═════𖡹 SANO MD 𖡹═════*
  *I N F O  C M D* 
- *🅟︎* = Premium
- *🅛︎* = Limit
+ *🅟* : Khusus Premium
+ *🅛* : Memakai Limit
 
 %readmore
 `.trimStart(),
@@ -286,13 +286,13 @@ let tek = `       *┄┄┄┅┅❑ DASHBOARD ❑┅┅┄┄┄*
 
 
 ┄┄┄┄┅┅| *BOT INFORMATION* |┅┅┄┄┄┄
-☘︎ *ᴜᴘᴛɪᴍᴇ:* ${mpt}
-☘︎ *ᴛɪᴍᴇ:* ${moment.tz('Asia/Jakarta').format('HH')} H  ${moment.tz('Asia/Jakarta').format('mm')} M  ${moment.tz('Asia/Jakarta').format('ss')} S
-☘︎ *ᴜsᴇʀs:* ${Object.keys(global.db.data.users).length}
-☘︎ *ʟɪᴍɪᴛ:* ${usrs.limit}
-☘︎ *ʟᴇᴠᴇʟ:* ${usrs.level}
-☘︎ *ʀᴏʟᴇ:* ${usrs.role}${usrs.premiumTime > 1 ? `
-☘︎ *ᴇxᴘɪʀᴇᴅ ᴘʀᴇᴍɪᴜᴍ:*
+𖤓 *ᴜᴘᴛɪᴍᴇ:* ${mpt}
+𖤓 *ᴛɪᴍᴇ:* ${moment.tz('Asia/Jakarta').format('HH')} H  ${moment.tz('Asia/Jakarta').format('mm')} M  ${moment.tz('Asia/Jakarta').format('ss')} S
+𖤓 *ᴜsᴇʀs:* ${Object.keys(global.db.data.users).length}
+𖤓 *ʟɪᴍɪᴛ:* ${usrs.limit}
+𖤓 *ʟᴇᴠᴇʟ:* ${usrs.level}
+𖤓 *ʀᴏʟᴇ:* ${usrs.role}${usrs.premiumTime > 1 ? `
+𖤓 *ᴇxᴘɪʀᴇᴅ ᴘʀᴇᴍɪᴜᴍ:*
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 
 `
