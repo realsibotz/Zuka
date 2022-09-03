@@ -42,11 +42,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/rangga_botz'
-global.sgh = 'https://github.com/XiaomiBOT'
-global.sgc = 'https://chat.whatsapp.com/DcIcuTKGWSm1pxBVc9pgvR'
-global.stg = 'https://t.me/XiaomiBOT'
-global.snh = 'wa.me/62857791505012'
+global.sig = 'https://instagram.com/kimhcibotz'
+global.sgh = 'https://github.com/rilrealsi'
+global.sgc = 'https://chat.whatsapp.com/Bh4Gk4ipq2pD3c3BJKyyk7'
+global.stg = 'https://t.me/Sano - Md'
+global.snh = 'wa.me/6282239202895'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085779150501'
@@ -57,18 +57,18 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/rangga123gg'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62857791505013'
-global.nomorown = '62857791505012'
-global.namebot = 'XiaomiBOT'
-global.nameown = 'HanzOfcⒸ︎'
+global.nomorbot = '6287762758045'
+global.nomorown = '6282239202895'
+global.namebot = 'Sano - Md'
+global.nameown = 'Alwi Ezy'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62857791505012'],
-  ['62857791505012'],
-  ['62857791505012'],
-  ['62857791505012', 'Owner', true]
+  ['6282239202895'],
+  ['6282239202895'],
+  ['6282239202895'],
+  ['6282239202895', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,20 +113,20 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'XiaomiBOT' //Main Watermark
-global.wm2 = 'Halo kak Selamat datang di XiaomiBOT👋'
-global.wm3 = '☘︎ XiaomiBotz'
+global.wm = 'Sano - Md' //Main Watermark
+global.wm2 = 'Halo kak Selamat datang di Sano - Md👋'
+global.wm3 = '☘︎ Sano - Md'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'XiaomiBOTⒸ︎' 
+global.author = 'Ⓒ︎ By Alwi Ezy' 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6048ec3e029520424c234.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.giflogo = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.thumbs = ['https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
+global.thumb = 'https://telegra.ph/file/b22b7030b0ee5c3aee98c.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/b22b7030b0ee5c3aee98c.jpg'
+global.giflogo = 'https://telegra.ph/file/b22b7030b0ee5c3aee98c.jpg'
+global.thumbs = ['https://telegra.ph/file/b22b7030b0ee5c3aee98c.jpg', 'https://telegra.ph/file/b22b7030b0ee5c3aee98c.jpg', 'https://telegra.ph/file/b22b7030b0ee5c3aee98c.jpg','https://telegra.ph/file/b22b7030b0ee5c3aee98c.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
@@ -151,7 +151,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
+global.thumbdoc = 'https://telegra.ph/file/b22b7030b0ee5c3aee98c.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -180,7 +180,7 @@ global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Cie mau nyolong ya'
-global.stickauth = `By XiaomiBOTⒸ︎`
+global.stickauth = `By Sano - Md`
 
 global.multiplier = 38 // The higher, The harder levelup
 
